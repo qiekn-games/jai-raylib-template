@@ -27,5 +27,4 @@ main :: () {
 
         DrawText(text.data, x, y, font_size, BLUE);
     }
-
 }
